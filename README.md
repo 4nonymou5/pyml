@@ -1,2 +1,2 @@
 # ml-py-implementation
-Implementing ML concepts from scratch in python
+Superfast python implementations of generic ml algorithms, everything implemented from scratch
